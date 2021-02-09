@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppAutoMapper", "WebAppAutoMapper\WebAppAutoMapper.csproj", "{FC37CFD7-2C3A-411B-9D3B-CDB7A9E0A135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC37CFD7-2C3A-411B-9D3B-CDB7A9E0A135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC37CFD7-2C3A-411B-9D3B-CDB7A9E0A135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC37CFD7-2C3A-411B-9D3B-CDB7A9E0A135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC37CFD7-2C3A-411B-9D3B-CDB7A9E0A135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75DCC8CC-AAF6-4703-B0FD-B07494996186}
+	EndGlobalSection
+EndGlobal
